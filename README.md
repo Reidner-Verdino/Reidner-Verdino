@@ -17,41 +17,41 @@ Computer Science student with complementary training in Data Science through the
 ## 🛠️ Technologies & Tools
 
 **Languages:**
-![Python]
-![SQL]
+[Python]
+[SQL]
 
 **ETL & Pipelines:**
-![Pandas]
-![NumPy]
+[Pandas]
+[NumPy]
 
 **Analysis & Machine Learning:**
-![Scikit-learn]
-![Matplotlib]
-![Seaborn]
+[Scikit-learn]
+[Matplotlib]
+[Seaborn]
 
 **BI & Visualization:**
-![Power BI]
-![Looker]
-![Excel]
+[Power BI]
+[Looker]
+[Excel]
 
 **Databases:**
-![MySQL]
+[MySQL]
 
 **Tools:**
-![VS Code]
-![Jupyter]
-![Google Colab]
-![Git]
-![GitHub]
+[VS Code]
+[Jupyter]
+[Google Colab]
+[Git]
+[GitHub]
 
 **Cloud:**
-![GCP]
-![AWS]
-![OCI]
+[GCP]
+[AWS]
+[OCI]
 
 **Infrastructure & OS:**
-![Linux]
-![Windows]
+[Linux]
+[Windows]
 
 ---
 
@@ -69,10 +69,3 @@ Computer Science student with complementary training in Data Science through the
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Reidner-Verdino&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reidner-Verdino&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📬 Contact
-
-![LinkedIn](https://www.linkedin.com/in/reidnervedino/)
-![Email](mailto:reidnerverdinoo@gmail.com)
