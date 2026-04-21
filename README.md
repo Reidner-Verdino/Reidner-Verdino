@@ -16,40 +16,40 @@ Computer Science student with complementary training in Data Science through the
 
 ## Technologies & Tools
 
-**Languages:**
+- **Languages:**
 Python,
 SQL
 
-**ETL & Pipelines:**
+- **ETL & Pipelines:**
 Pandas,
 NumPy
 
-**Analysis & Machine Learning:**
+- **Analysis & Machine Learning:**
 Scikit-learn,
 Matplotlib,
 Seaborn
 
-**BI & Visualization:**
+- **BI & Visualization:**
 Power BI,
 Looker,
 Excel
 
-**Databases:**
+- **Databases:**
 MySQL
 
-**Tools:**
+- **Tools:**
 VS Code,
 Jupyter,
 Google Colab,
 Git,
 GitHub
 
-**Cloud:**
+- **Cloud:**
 GCP,
 AWS,
 OCI
 
-**Infrastructure & OS:**
+- **Infrastructure & OS:**
 Linux(Terminal),
 Windows
 
