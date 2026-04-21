@@ -1,4 +1,4 @@
-## Hi, I'm Reidner Verdino 👋
+## Reidner Verdino
 
 **Computer Science Student** · Data Science | Oracle Next Education (ONE) Alumni
 Passionate about building data-driven solutions through ETL pipelines, exploratory analysis, and Machine Learning.
@@ -8,54 +8,54 @@ Looking for my first opportunity as a Data / BI / Analytics Intern or Junior Dev
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Computer Science student with complementary training in Data Science through the ONE – Oracle Next Education program (Alura + Oracle) and practical experience in administrative routines involving data processing, validation, and organization. Proficient in Python, SQL, ETL, Power BI, and exploratory analysis with libraries such as Pandas, NumPy, and Scikit-learn. Seeking an internship or junior position in Data, BI, or Analytics to apply technical knowledge and contribute with data-driven solutions.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 **Languages:**
-[Python]
-[SQL]
+Python,
+SQL
 
 **ETL & Pipelines:**
-[Pandas]
-[NumPy]
+Pandas,
+NumPy
 
 **Analysis & Machine Learning:**
-[Scikit-learn]
-[Matplotlib]
-[Seaborn]
+Scikit-learn,
+Matplotlib,
+Seaborn
 
 **BI & Visualization:**
-[Power BI]
-[Looker]
-[Excel]
+Power BI,
+Looker,
+Excel
 
 **Databases:**
-[MySQL]
+MySQL
 
 **Tools:**
-[VS Code]
-[Jupyter]
-[Google Colab]
-[Git]
-[GitHub]
+VS Code,
+Jupyter,
+Google Colab,
+Git,
+GitHub
 
 **Cloud:**
-[GCP]
-[AWS]
-[OCI]
+GCP,
+AWS,
+OCI
 
 **Infrastructure & OS:**
-[Linux]
-[Windows]
+Linux(Terminal),
+Windows
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -65,7 +65,7 @@ Computer Science student with complementary training in Data Science through the
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Reidner-Verdino&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reidner-Verdino&layout=compact&theme=tokyonight&hide_border=true)
